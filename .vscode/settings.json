@@ -1,0 +1,13 @@
+{
+    "html.validate.styles": false,
+    "markdownlint.config": {
+        "default": true,
+        "MD007": {
+            "indent": 2
+        },
+        "no-hard-tabs": false,
+        "MD025": {
+            "front_matter_title": ""
+        }
+    }
+}
